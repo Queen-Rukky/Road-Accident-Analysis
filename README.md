@@ -4,6 +4,15 @@
 A comprehensive and interactive Power BI dashboard built to analyze road accident metadata. This project visualizes key performance indicators such as casualty severity, accident types, vehicle involvement, road conditions, location-based distribution, and time-of-day trends. It is designed to support road safety analysis, inform transport policy, and highlight actionable insights for reducing traffic-related casualties.
 
 ---
+## Table of Content
+- [Project Overview](https://github.com/Queen-Rukky/Road-Accident-Analysis?tab=readme-ov-file#%EF%B8%8F-project-overview)
+- [Objective](https://github.com/Queen-Rukky/Road-Accident-Analysis?tab=readme-ov-file#-objectives)
+- [Dashboard Features](https://github.com/Queen-Rukky/Road-Accident-Analysis?tab=readme-ov-file#-dashboard-features)
+- [Dataset Overview](https://github.com/Queen-Rukky/Road-Accident-Analysis?tab=readme-ov-file#-dataset-overview)
+- [Tools And Technologies Used](https://github.com/Queen-Rukky/Road-Accident-Analysis?tab=readme-ov-file#%EF%B8%8F-tools--technologies)
+- [Use cases](https://github.com/Queen-Rukky/Road-Accident-Analysis?tab=readme-ov-file#-use-cases)
+- [License](https://github.com/Queen-Rukky/Road-Accident-Analysis?tab=readme-ov-file#-license)
+- [About The Author](https://github.com/Queen-Rukky/Road-Accident-Analysis?tab=readme-ov-file#-author)
 
 ## 🗂️ Project Overview
 
@@ -96,12 +105,6 @@ While the actual dataset is not included in this public repository due to privac
 - **Insurance Firms** – To assess risk based on vehicle and location data  
 - **Public Safety Campaigns** – Educating drivers and the public on accident trends  
 - **Academic Research** – Road safety studies and traffic behavior analysis
-
----
-
-## 📸 Screenshot
-
-![Road Accident Dashboard](./Screenshot%202025-06-01%20135417.png)
 
 ---
 
